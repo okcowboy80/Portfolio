@@ -1,0 +1,120 @@
+body {
+  font-family: 'Kanit', sans-serif;
+  background-color: whitesmoke;
+}
+
+.side-nav {
+  height: 100vh;
+  background-color: #0B4984;
+  display: block;
+  position: sticky;
+  left: 0;
+  top: 0;
+  border-right: 5px solid black;
+}
+
+.page-content {
+  
+  color: black;
+  padding-left: 1rem;
+}
+
+img {
+  display: block;
+  border-radius: 50%;
+  height: 10em;
+  width: 10em;
+  border-style: solid;
+  border-width: 6px;
+  color: #145A9C;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 4rem;
+  margin-bottom: 2rem;
+  
+}
+
+.nav-link {
+  margin: 8px;
+  color: lightsteelblue;
+}
+
+.nav-link :active {
+  color: white;
+}
+
+.active {
+  color: white;
+}
+
+a :active {
+  color: white;
+}
+
+#title {
+  margin-top: 5rem;
+  
+  font-size: 4rem;
+}
+
+#address {
+  font-size: 1rem;
+}
+
+#phone {
+  font-size: 1rem;
+  color: gray;
+}
+
+#email {
+  font-size: 1rem;
+  color: gray;
+}
+
+.social {
+  margin-right: 1rem;
+}
+
+.social-group {
+  margin-top: 4rem;
+  margin-bottom: 4rem;
+}
+
+#category {
+  margin-top: 4rem;
+  margin-bottom: 4rem;
+  color: #2A2A2A;
+}
+
+.job {
+  color: #2A2A2A;
+  margin-top: 3rem;
+  margin-bottom: 1rem;
+}
+
+.company {
+  color: lightslategray;
+  margin-bottom: 2rem;
+}
+
+a :hover {
+  color: blue;
+}
+
+.font-icon {
+
+  font-size:3rem;
+  color:gray;
+}
+
+.workflow {
+  display: block;
+
+}
+
+.check {
+  display: inline-block;
+  margin-left: 1rem;
+  margin-right: 5px;
+  color:gray;
+}
