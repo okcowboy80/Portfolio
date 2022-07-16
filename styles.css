@@ -137,4 +137,7 @@ a :hover {
   .myNav {
     display: none;
   }
+  #candy {
+    display: none;
+  }
 }
