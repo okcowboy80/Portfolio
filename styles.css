@@ -140,4 +140,8 @@ a :hover {
   #candy {
     display: none;
   }
+
+  #codesnips {
+    display: none;
+  }
 }
