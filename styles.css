@@ -39,6 +39,7 @@ img {
   color: lightsteelblue;
 }
 
+
 .nav-link :active {
   color: white;
 }
@@ -50,6 +51,7 @@ img {
 a :active {
   color: white;
 }
+
 
 #title {
   margin-top: 5rem;
@@ -98,7 +100,7 @@ a :active {
 }
 
 a :hover {
-  color: blue;
+  color: orange;
 }
 
 .linkedin :hover {
