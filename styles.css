@@ -45,12 +45,9 @@ img {
 }
 
 .active {
-  color: white;
+  color: orange;
 }
 
-a :active {
-  color: white;
-}
 
 
 #title {
