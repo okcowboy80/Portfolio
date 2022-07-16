@@ -101,6 +101,18 @@ a :hover {
   color: blue;
 }
 
+.linkedin :hover {
+  color: #0072b1;
+}
+
+.github :hover {
+  color: #171515
+}
+
+.twitter :hover {
+  color: #00acee;
+}
+
 .font-icon {
 
   font-size:3rem;
